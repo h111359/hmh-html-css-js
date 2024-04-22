@@ -16,7 +16,7 @@
 
 -----
 
-[Diff checker](https://www.diffchecker.com/text-compare/
+[Diff checker](https://www.diffchecker.com/text-compare/)
 
 -----
 
