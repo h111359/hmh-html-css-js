@@ -14,6 +14,13 @@
 
 ## Section 12: Web Design School - Create a Website that People Love
 
+-----
+
+[Diff checker](https://www.diffchecker.com/text-compare/
+
+-----
+
+
 ### 69. Understanding Color Theory
 
 [Color Hunt](https://colorhunt.co/)
